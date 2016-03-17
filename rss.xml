@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[narcisroma]]></title>
-        <description><![CDATA[narcisroma]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Narcis Roma]]></title>
+        <description><![CDATA[Narcis Roma]]></description>
+        <link>https://thegrid.ai/narcisroma/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 12:14:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 13:45:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/narcisroma/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/417e657e-1219-4c8d-ad8d-6851b94303f0.jpg">]]></description>
-            <link>undefinedel-futuro-el-presente-el-/index.html</link>
+            <title><![CDATA[El futuro, el presente, el ...]]></title>
+            <description><![CDATA[<article><h1>El futuro, el presente, el ...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/417e657e-1219-4c8d-ad8d-6851b94303f0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/narcisroma/el-futuro-el-presente-el-/index.html</link>
             <guid isPermaLink="false">6398035f-3e22-4cdc-ae4b-2d2d8cfead46</guid>
-            <pubDate>Thu, 17 Mar 2016 12:14:36 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 13:45:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
