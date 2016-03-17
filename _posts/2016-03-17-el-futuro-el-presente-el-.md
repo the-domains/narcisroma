@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'El futuro, el presente, el ...'
-datePublished: '2016-03-17T12:14:36.219Z'
-dateModified: '2016-03-17T12:14:11.520Z'
-title: ''
+description: ''
+datePublished: '2016-03-17T13:45:52.773Z'
+dateModified: '2016-03-17T13:42:50.919Z'
+title: 'El futuro, el presente, el ...'
 author: []
+sourcePath: _posts/2016-03-17-el-futuro-el-presente-el-.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-el-futuro-el-presente-el-.md
-published: true
 url: el-futuro-el-presente-el-/index.html
 _type: Article
 
@@ -26,4 +26,6 @@ _type: Article
 
 El futuro, el presente, el ...
 
-Los días y los años pasan a ritmo vertiginoso. Sin apenas darnos cuenta, dejamos de ser adolescentes y nos convertimos en padres, dejamos de ser estudiantes y no convertimos en empresarios. Este ritmo y cambio constante, nos trae nuevos sueños, pero demasiadas veces nos aparca los
+Los días y los años pasan a ritmo vertiginoso. Sin apenas darnos cuenta, dejamos de ser adolescentes y nos convertimos en padres, dejamos de ser estudiantes y no convertimos en empresarios. Este ritmo y cambio constante, nos trae nuevos sueños, pero demasiadas veces aparca los que teníamos en la niñez
+
+Este post y este site pretende reencontrar, en medio del ritmo del día a día, el espació para compartir y desarrollar los sueños, experiencias y peripecias.
